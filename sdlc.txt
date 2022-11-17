@@ -1,0 +1,5 @@
+software developtment life cycle sdlc
+1)requirements
+2)analysis
+3)designing
+4)development
