@@ -1,0 +1,41 @@
+Q=2 What Are The Types Of Applications?
+
+=>Types of Application Software
+Application software can broadly be categorized into the following types. The category you opt for depends on your work-related needs. However, this is a broad classification of general application software. Looking at these, it becomes easier for us to establish a general definition of software when talking about application software.
+
+	1.Web browsers
+	2.Presentation software
+	3.Spreadsheet software
+	4.Graphic software
+	5.Word processors
+	6.Database software
+	7.Multimedia software
+	8.Education software
+	9.Information software
+	10.Content access software
+
+- Web browsers: These types of application software assist the users in accessing websites and conducting research. They help users retrieve information and explore the World Wide Web. Prevalent web browsers are Internet Explorer, Chrome, Firefox, MS Edge, Safari, etc. These browsers allow users to access search engines like Google, Bing, Yahoo, etc., to conduct research and surf the web.
+As a software application, web browsers facilitate easy surfing of the internet. You can make use of these to quickly locate information across the web.
+- Presentation software: This application software is built for personal and professional use. It is designed to assist the users in creating presentations with information and ideas. These software applications used by businesses gives the ease of making a presentation at the push of a button.
+Some of the key elements of presentation software are:
+- Text editor: Presentation software contains the option of a text editor, where one can put their text and style it.
+- Multimedia files: Presentation software contains the facility of adding and animating graphics, texts, multimedia, and videos.
+- Slideshows: Presentation software help in conducting a slideshow for the presentation also.
+A few famous examples of this are Microsoft’s PowerPoint, Google Slides, and Apple’s Keynote.
+These presentation applications are essential to creating an engaging and informative experience.
+They allow the easy visual presentation of data with the help of various tools.
+Information can be presented easily in the form of slides.
+- Spreadsheet software: Representation of data in tabular form is possible through spreadsheet software. They allow easy calculations through formulas and functions.
+Spreadsheet software that helps analyze, store, and organize data. They assist in effortlessly conducting complex calculations and managing data. All the data is neatly arranged in rows and columns. Users can use spreadsheet software to perform mathematical calculations. The most used application software in this field is Microsoft Excel, Google Sheets, and Apple Numbers.
+Graphic software: Graphics software allows easy editing of visual data. It makes room for picture editing and illustration.Graphics software assists users in creating illustrations and pictures through software. Examples of application software include Adobe Photoshop and PaintShop pro.
+- Word processors: Word processor software allows formulation, beautification, and manipulation of text. They allow a wide variety of features to make room for effective text consolidation and editing.
+This software helps the user input, edit, format, and give text output. Moreover, these types of software help create an exquisite visual experience by providing access to a thesaurus, synonyms, etc. Apart from that, the software includes font styles, colors, size, etc.
+Examples of application software are Appleworks, Wordpad, Notepad, Google Docs, Microsoft Word Docs, etc.
+- Database software: Known popularly as database management software, this software helps with effective data management. This software allows easy organization of data and effortless access to it.
+DBMS or Database Management System is an application built for managing, extracting, storing, and searching for information within a single database. While searching DBMS, this software accesses data through modification. A few examples of DBMS are MS Access, Oracle, and MySQL.
+- Multimedia software: Such software allows easy creation of audio, video, or pictorial files. They deal with all basic multimedia creation and sharing. They come with a wide variety of tools to facilitate the same.This software is specially built to record, create and edit audio and video files. It is a significant part of the entertainment, telecommunications, and media industry.
+Multimedia software helps in enhancing the visual and auditory experience of any multimedia. 
+Users can combine audio, texts, images, and animations in multimedia software.
+- Education software: Any software that enhances the learning experience is called education software. This kind of software is used in classroom setups where teachers impart knowledge to students. For example, education software makes it easier to conduct lectures with visual and auditory experiences to make learning fun and easy. Standards of education software include ProProfs, Schoology, Google Classroom, TalentLMS, Litmos, etc.Academic or educational software is designed to take care of learning and tutorials. Functional across various academic domains, they allow easy and immersive education.
+
+- Other important kinds of software can be seen in content access software, Freeware, Shareware, etc. Each of them fulfills a specific function that allows easy computer usage and redefines technology in our day and age. Such involvement with the software makes it necessary to ponder the vital question that revolves around the future of software. Let us look at the future of software, and what potential custom software has in store.

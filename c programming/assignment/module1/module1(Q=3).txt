@@ -1,0 +1,16 @@
+Q=3 What is programming?
+
+=> Programming is an exercise or practice that boost our logical thinking and improves a problem-solving skill. It teaches us how to accomplish a task with the help of a computer program or software. Therefore, in simple terms, programming is a task to implement a solution to a problem in the form of computer language. In this section, we will discuss the word programming, programming languages, its type, advantages, disadvantages, and their uses.
+In computer science fields, the word program characterizes what a computer actually does and this process is known as programming.
+We can also define the term programming as it is the process that models or structure the set of instructions that instruct the machine how to perform a task and what to perform. It can be done using a variety of programming languages such as C, C++, C#, Python, Java, etc.
+
+- Advantages of Programming :-
+It enhances problem-solving skills.
+Using programming, we can solve complex problems.
+It is also learning with fun.
+It can perform multiple tasks can be bundled into one module.
+It saves time and effort.
+
+- Disadvantages of Programming :-
+Knowledge of computer is mandatory.
+Logical thinking should be strong.
