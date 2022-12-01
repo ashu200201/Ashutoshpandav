@@ -20,4 +20,3 @@
 			printf("\nBoth are equal.");
 		} 	
 	}
-	
